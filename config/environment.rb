@@ -1,6 +1,6 @@
 require 'bundler/setup'
 require 'pry'
-
+require 'prime'
 Bundler.require(:default)
 
 require './lib/largest_prime_factor'
